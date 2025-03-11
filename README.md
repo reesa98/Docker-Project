@@ -40,7 +40,7 @@ docker build -t my-web-app .
 The application contains Dockerfile and index.html
 It is deployed to AWS Elastic Beanstalk using the Elastic Beanstalk CLI
 
-##Cleanup
+## Cleanup
 To avoid unnecessary AWS charges, delete the Elastic Beanstalk environment and any associated S3 storage
 
 ## Author
